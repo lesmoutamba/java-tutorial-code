@@ -8,7 +8,7 @@ public class TestApp {
 		
 		int number_of_month, year;
 		int nbre_of_daysinmonth = 0;
-		String month= "Not exist";
+		String month= "Do not exist";
 		
 		System.out.println("What is the number of the month ?");
 		number_of_month = console.nextInt();
